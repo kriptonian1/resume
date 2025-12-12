@@ -4,6 +4,8 @@
 
 #name("Sawan Bhattacharya")
 
+// ========== Contact ==========
+
 #contactBuilder(items: (
     (text: "+91 6291170644", href: "tel:+916291170644"),
     (text: "sawan.bhattacharya442@gmail.com", href: "mailto:sawan.bhattacharya442@gmail.com"),
@@ -12,12 +14,15 @@
   )
 )
 
+// ========== Skills ==========
 
 #sectionHeaderBuilder("Technical Skills")
 #skillBuilder("Languages", "JavaScript, Typescript, Python, Rust, Golang, Bash, HTML, CSS, Solidity")
 #skillBuilder("Developer Tools", "Git, Docker, AWS, VS Code, Postman, GitHub, Vercel, Figma, Expo EAS")
 #skillBuilder("Frameworks/Libraries", "React, Node.js, React Native, Next.js, Tailwind, Express.js, Go Fiber, Framer, Expo")
 // #keywordHack[Enter your keywords]
+
+// ========== Experience ==========
 
 #sectionHeaderBuilder("Experience")
 #experienceBuilder(
@@ -61,6 +66,8 @@
     - Explored Metamask Snaps for potential use cases.
 ]
 
+// ========== Projects ==========
+
 #sectionHeaderBuilder("Projects")
 #projectBuilder(
   name: "Keyshade",
@@ -80,6 +87,8 @@
     - Created a multi-platform release pipeline with semantic releases and auto-publish to npm, Homebrew, and Scoop.
     - Added JSON Schema for YAML LSP to provide autocomplete, validation, and better DX.
 ]
+
+// ========== Edication ==========
 
 #sectionHeaderBuilder("Education")
 #subHeading[Narula Institute of Technology] #spaceBetween #text(size: 12pt)[Kolkata, India] \
