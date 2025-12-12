@@ -20,7 +20,7 @@
 #skillBuilder("Languages", "JavaScript, Typescript, Python, Rust, Golang, Bash, HTML, CSS, Solidity")
 #skillBuilder("Developer Tools", "Git, Docker, AWS, VS Code, Postman, GitHub, Vercel, Figma, Expo EAS")
 #skillBuilder("Frameworks/Libraries", "React, Node.js, React Native, Next.js, Tailwind, Express.js, Go Fiber, Framer, Expo")
-// #keywordHack[Enter your keywords]
+// #keywordHack[Enter your keywords seperted by coma]
 
 // ========== Experience ==========
 
