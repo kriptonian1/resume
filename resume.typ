@@ -51,9 +51,9 @@
   location: "Hyderabad, India",
   timeline: (starting: "March 2023", ending: "May 2023"),
 )[
-    - Developed the UI Design System, icon library, and RaaS platform using PNPM workspace and Turborepo for optimized component management.
-    - Implemented user authentication and mailing server with Node.js and Express, using PM2 for process management on an EC2 instance.
-    - Built an automated hosting server with AWS, Docker, and S3 for on-demand deployment; migrated IP fetcher to gRPC in Rust and developed a Go API gateway.
+    - Developed a React Native application for Android, and utilized Flipper for effective debugging and integrated essential screens such as login and settings, and other components for seamless functionality.
+    - Implemented a robust codebase by incorporating a linter and integrated login and OTP APIs into the application, ensuring secure user authentication.
+    - Collaborated closely with the design team to shape the application’s flow and enhance UX.
 ]
 #experienceBuilder(
   company: "Auxesia",
